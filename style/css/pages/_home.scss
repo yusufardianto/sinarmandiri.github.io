@@ -1,0 +1,46 @@
+// .navbar-content {
+//   position: fixed;
+//   //   margin-top: ;
+// }
+
+// .hero-content {
+//   position: static;
+// }
+.section-segment {
+  .segment-title {
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+  }
+  .sement-content {
+    margin: auto;
+    align-content: center;
+  }
+  .segment-card {
+    background: #f6f6f6;
+    box-shadow: 10px 10px 30px 10px rgba(224, 224, 224, 0.4);
+    border-radius: 30px;
+    .subtitle-segment {
+      font-style: normal;
+      text-align: center;
+    }
+  }
+}
+#footer {
+  color: #444444;
+  font-size: 14px;
+  background: #f1f0f2;
+}
+
+.credits {
+  a {
+    padding-top: 5px;
+    font-size: 13px;
+    color: #fdbb6b;
+  }
+}
+#footer .social-links a:hover {
+  background: #00805d;
+  color: #fff;
+  text-decoration: none;
+}

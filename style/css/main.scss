@@ -1,0 +1,10 @@
+// @import "../vendor/bootstrap/scss/bootstrap.scss";
+@import "font";
+@import "global";
+
+@import "pages/home";
+@import "pages/about";
+@import "pages/product";
+@import "pages/contact";
+
+@import "transitions/slide-fade";
